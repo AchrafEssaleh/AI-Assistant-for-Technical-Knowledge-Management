@@ -1,6 +1,8 @@
 ## Ongoing Project 
-This repository hosts an ongoing academic–industrial project carried out during the second semester of the General Engineering Program at IMT Atlantique (2025–2026). The project is developed in collaboration with SOLENTand focuses on building an AI-powered knowledge management assistant.
-Our goal is to design and implement a centralized platform that leverages local LLMs, RAG pipelines, and multi-format ingestion to:
+
+This repository hosts an ongoing project carried out in collaboration with __SOLENT__, a company specialized in software development and technical solutions. The project is conducted during second year of the General Engineering Program at IMT Atlantique (2025–2026).
+
+The aim is to develop an AI powered knowledge management assistant a centralized platform that leverages local __LLMs__, __RAG pipelines__, and multi-format ingestion to:
 
 ## streamline onboarding of new team members,
 ## enable intelligent root-cause analysis,
